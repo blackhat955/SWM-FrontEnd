@@ -32,7 +32,7 @@ import Register from "./Pages/Register";
 import Home from "./Pages/Home";
 import Task from "./Pages/Task";
 
-axios.defaults.baseURL = "http://localhost:8080";
+axios.defaults.baseURL = "https://swmsystem-server.herokuapp.com/";
 
 // console.log(axios.defaults.headers);
 let authToken = null;
