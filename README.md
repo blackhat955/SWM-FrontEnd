@@ -1,4 +1,4 @@
-# Garabage Management
+# Waste Management System
 This is idea create for manages the different bins are placed on different locations (longitude, latitude) over the maps. As we know that municipal corporation do lots of work to do so. We are as thrid party manages all of this for them to reduce the time of response, maintain hygiene, and prevent the overflow of the bin.      
 Garbage management is a project is idea is self-manageable power by AI and cloud. In this, we are different sensors to get the data from bins to push on cloud and create a pipeline to get data ready to AI model to tarin it on live data. As concerns the application which are shows on a device we are using react PWA and backend as node js.  
 
