@@ -24,7 +24,7 @@ const Header = () => {
             <li className='nav-item theme-text'>
               <Link to='/' className='nav-link'>
                 {" "}
-                Smart Garbage Management System{" "}
+                Smart Waste Management System{" "}
               </Link>
             </li>
           </ul>
