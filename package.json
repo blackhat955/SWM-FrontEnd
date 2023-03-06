@@ -94,7 +94,7 @@
   "scripts": {
     "production": "cross-env NODE_ENV=production NODE_OPTIONS=--openssl-legacy-provider  node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
     "start": "export SET NODE_OPTIONS=--openssl-legacy-provider && react-scripts start",
-    "build": "export SET NODE_OPTIONS=--openssl-legacy-provider && react-scripts build"
+    "build": "export SET NODE_OPTIONS=--openssl-legacy-provider && react-scripts build",
     "test": "node scripts/test.js"
   },
   "eslintConfig": {
