@@ -38,7 +38,7 @@ After getting information about the bin going to overflow a self-manageable mode
 
 ![P10](Demo_images/img8.jpeg)
 ![P11](Demo_images/img12.jpeg)
-![P11](Demo_images/img13.jpeg)
+![P11](Demo_images/img13.jpg)
 
 
 
