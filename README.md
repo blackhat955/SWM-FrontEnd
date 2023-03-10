@@ -1,9 +1,8 @@
-# Smart Waste System
-This is idea create for manages the different bins are placed on different locations (longitude, latitude) over the maps. As we know that municipal corporation do lots of work to do so. We are as thrid party manages all of this for them to reduce the time of response, maintain hygiene, and prevent the overflow of the bin.      
-Garbage management is a project is idea is self-manageable power by AI and cloud. In this, we are different sensors to get the data from bins to push on cloud and create a pipeline to get data ready to AI model to tarin it on live data. As concerns the application which are shows on a device we are using react PWA and backend as node js.  
+# Smart Waste System     
+ Garbage management is a project idea that is a self-manageable power by AI and the cloud. In this, we are different sensors to get the data from bins to push on the cloud and create a pipeline to get data ready for to AI model to train it on live data. Further, We transfer the idea to an algorithm that is based on A* has an additional parameter to get the shortest path to get work done with minimal energy wastage.  
 
 Output :
-After getting information about the bin going to overflow a self-manageable model will calculate the shortest path for the assigned vehicle to prevent wastage of fuel and overall process more efficient. I presume that this is a revolutionary idea going to help the municipal corporations to achieve all of this which is maybe not achieve as present system
+After getting information about the bingoing to overflowing a self-manageable model will calculate the shortest path for the assigned vehicle to prevent wastage of fuel and overall process more efficient. I presume that this is a revolutionary idea going to help the municipal corporations to achieve all of this is maybe not achievable by the present system.
 
 
 
