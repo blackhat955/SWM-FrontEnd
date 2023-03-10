@@ -21,7 +21,7 @@ After getting information about the bin going to overflow a self-manageable mode
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Demo Images:
-![P1](Ecom_images/img1.jpeg)
+![P1](Demo_images/img1.jpeg)
 
 
 
