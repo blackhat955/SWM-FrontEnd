@@ -31,13 +31,12 @@ After getting information about the bin going to overflow a self-manageable mode
 ![P8](Demo_images/img6.jpeg)
 ![P9](Demo_images/img7.jpeg)
 ![P10](Demo_images/img11.jpeg)
-![P11](Demo_images/img18.jpeg)
 
 
 
 ### Award and Recognization
 
-![P10](Demo_images/img1.jpeg)
+![P10](Demo_images/img8.jpeg)
 ![P11](Demo_images/img1.jpeg)
 
 
